@@ -1,9 +1,6 @@
-# Fridgify
-An application to keep track of all the food in your refrigerator.
+# DailyJournal
+An application to keep track of all the things I'm learning at Nashville Software School!
 
-## Setup
+## Short description:
 
-1. Clone this repository.
-1. `cd fridgify/src/lib`
-1. `npm install`
-1. `npm start`
+Apon looking at the setup of my first Daily Journal repo, I've decided to redo the entire application using some freshly learned skills.
