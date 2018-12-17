@@ -1,22 +1,71 @@
 {
-  "fridge": [
+  "journal": [
     {
-      "name": "severed toad head",
-      "expiration": "12/25/2018",
-      "type": "reptile meat",
-      "id": 1
-    },
-    {
-      "name": "broccoli",
-      "expiration": "01/01/2019",
-      "type": "vegetable",
+      "date": "12/17/18",
+      "concepts": "API, Browserify",
+      "entry": "Today was awesome! ps this is a ANOTHER test!",
+      "mood": "Good",
       "id": 2
     },
     {
-      "name": "mashed potatoes",
-      "expiration": "01/01/2017",
-      "type": "blob",
+      "date": "2018-12-17",
+      "concepts": "a",
+      "entry": "a",
       "id": 3
+    },
+    {
+      "date": "2018-12-17",
+      "concepts": "b",
+      "entry": "b",
+      "id": 4
+    },
+    {
+      "date": "2018-12-17",
+      "concepts": "c",
+      "entry": "c",
+      "id": 5
+    },
+    {
+      "date": "2018-12-17",
+      "concepts": "d",
+      "entry": "d",
+      "id": 6
+    },
+    {
+      "date": "2018-12-17",
+      "concepts": "e",
+      "entry": "e",
+      "id": 7
+    },
+    {
+      "date": "2018-12-17",
+      "concepts": "f",
+      "entry": "f",
+      "id": 8
+    },
+    {
+      "date": "2018-12-17",
+      "concepts": "g",
+      "entry": "g",
+      "id": 9
+    },
+    {
+      "date": "2018-12-17",
+      "concepts": "h",
+      "entry": "h",
+      "id": 10
+    },
+    {
+      "date": "2018-12-17",
+      "concepts": "i",
+      "entry": "i",
+      "id": 11
+    },
+    {
+      "date": "2018-12-17",
+      "concepts": "j",
+      "entry": "j",
+      "id": 12
     }
   ]
 }
